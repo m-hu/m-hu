@@ -35,11 +35,5 @@ Senior software engineer with 10+ years building math-heavy production systems a
 ### Previously at
 J.P. Morgan · Botify · Liftoff · Société Générale · NeoXam · BNP Paribas Arbitrage · Siemens EDA · INRIA
 
-### GitHub stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=m-hu&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-</p>
-
 ### Languages
 English · Français · 中文
