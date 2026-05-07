@@ -33,7 +33,7 @@ Senior software engineer with 10+ years building math-heavy production systems a
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ### Previously at
-J.P. Morgan · Botify · Liftoff · Société Générale · NeoXam · BNP Paribas Arbitrage · Siemens EDA · INRIA
+J.P. Morgan · Botify · Liftoff · Société Générale · NeoXam · BNP Paribas Arbitrage · Siemens EDA · GE Healthcare · Aptive · INRIA
 
 ### Languages
 English · Français · 中文
