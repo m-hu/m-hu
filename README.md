@@ -1,6 +1,6 @@
 ## Hi, I'm Hao
 
-Senior software engineer with 10+ years building math-heavy production systems at scale: derivatives pricing engines, ML pipelines, compilers and runtimes, and formal-methods tooling. I translate algorithmic models, optimization routines, and quantitative research into reliable services, lead design reviews, and partner with researchers to ship decision-making infrastructure.
+Software engineering professional with 10+ years building math-heavy production systems at scale: derivatives pricing engines, ML pipelines, compilers and runtimes, and formal-methods tooling. I translate algorithmic models, optimization routines, and quantitative research into reliable services, lead design reviews, and partner with researchers to ship decision-making infrastructure.
 
 ### What I work on
 - **Quantitative & numerical systems** — rate-derivatives pricing on Athena, HPC job orchestration, tick-data tooling and backtesters.
