@@ -33,7 +33,7 @@ Software engineering professional with 10+ years building math-heavy production 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
 ### Previously at
-J.P. Morgan · Aptiv · plus prior roles spanning investment banking, fintech software vendors, mobile ad-tech, semiconductor EDA tooling, and academic research
+J.P. Morgan · Liftoff · SocGen · Siemens EDA · GE Healthcare · Aptiv · plus prior roles spanning investment banking, fintech software vendors, mobile ad-tech, semiconductor EDA tooling, and academic research
 
 ### Languages
 English · Français · 中文
